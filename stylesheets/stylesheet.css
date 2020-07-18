@@ -6,6 +6,7 @@ body {
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
+  font-weight: 300px;
   line-height: 1.5;
   color: #666666; }
 
@@ -212,8 +213,7 @@ a {
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .main-content {
-    padding: 2rem 4rem;
-    font-size: 1.1rem; } }
+    padding: 2rem 4rem; } }
 
 @media screen and (max-width: 42em) {
   .main-content {

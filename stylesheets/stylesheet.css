@@ -5,10 +5,10 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
-  color: #333333;
-  letter-spacing: -0.5px; }
+  color: #666666;
+  letter-spacing: -0.4px; }
 
 a {
   color: #1e6bb8;
@@ -113,7 +113,7 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #cc6600; }
+  color: #999999; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
